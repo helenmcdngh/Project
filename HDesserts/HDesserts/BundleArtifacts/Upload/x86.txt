@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Helen\Desktop\HDesserts\HDesserts\bin\x86\Release\Upload\HDesserts_1.1.1.0_x86.appx
+SymbolPackage=C:\Users\Helen\Desktop\HDesserts\HDesserts\AppPackages\HDesserts_1.1.1.0\HDesserts_1.1.1.0_x86.appxsym

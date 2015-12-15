@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="26497HelenMcD.HDesserts" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Scale>200</Scale>
+			<TargetSize>24</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://26497HelenMcD.HDesserts/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ApplicationInsights.config" uri="ms-resource://26497HelenMcD.HDesserts/Files/ApplicationInsights.config">
+				<Candidate type="Path">
+					<Value>ApplicationInsights.config</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HDesserts.xr.xml" uri="ms-resource://26497HelenMcD.HDesserts/Files/HDesserts.xr.xml">
+				<Candidate type="Path">
+					<Value>HDesserts.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://26497HelenMcD.HDesserts/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://26497HelenMcD.HDesserts/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://26497HelenMcD.HDesserts/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://26497HelenMcD.HDesserts/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://26497HelenMcD.HDesserts/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://26497HelenMcD.HDesserts/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://26497HelenMcD.HDesserts/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Images">
+				<NamedResource name="About.jpe" uri="ms-resource://26497HelenMcD.HDesserts/Files/Images/About.jpe">
+					<Candidate type="Path">
+						<Value>Images\About.jpe</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ApplesauceSpiceCake.JPG" uri="ms-resource://26497HelenMcD.HDesserts/Files/Images/ApplesauceSpiceCake.JPG">
+					<Candidate type="Path">
+						<Value>Images\ApplesauceSpiceCake.JPG</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="background.jpg" uri="ms-resource://26497HelenMcD.HDesserts/Files/Images/background.jpg">
+					<Candidate type="Path">
+						<Value>Images\background.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BittersweetChocolateCake.JPG" uri="ms-resource://26497HelenMcD.HDesserts/Files/Images/BittersweetChocolateCake.JPG">
+					<Candidate type="Path">
+						<Value>Images\BittersweetChocolateCake.JPG</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ChocolateBrownie.JPG" uri="ms-resource://26497HelenMcD.HDesserts/Files/Images/ChocolateBrownie.JPG">
+					<Candidate type="Path">
+						<Value>Images\ChocolateBrownie.JPG</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="EasyIceCreamCake.JPG" uri="ms-resource://26497HelenMcD.HDesserts/Files/Images/EasyIceCreamCake.JPG">
+					<Candidate type="Path">
+						<Value>Images\EasyIceCreamCake.JPG</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="heading.jpg" uri="ms-resource://26497HelenMcD.HDesserts/Files/Images/heading.jpg">
+					<Candidate type="Path">
+						<Value>Images\heading.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="HotChocolateCake.JPG" uri="ms-resource://26497HelenMcD.HDesserts/Files/Images/HotChocolateCake.JPG">
+					<Candidate type="Path">
+						<Value>Images\HotChocolateCake.JPG</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="IndividualChocolateMeltingCakes.JPG" uri="ms-resource://26497HelenMcD.HDesserts/Files/Images/IndividualChocolateMeltingCakes.JPG">
+					<Candidate type="Path">
+						<Value>Images\IndividualChocolateMeltingCakes.JPG</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LemonDome.JPG" uri="ms-resource://26497HelenMcD.HDesserts/Files/Images/LemonDome.JPG">
+					<Candidate type="Path">
+						<Value>Images\LemonDome.JPG</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PecanCakeWithRumFrosting.JPG" uri="ms-resource://26497HelenMcD.HDesserts/Files/Images/PecanCakeWithRumFrosting.JPG">
+					<Candidate type="Path">
+						<Value>Images\PecanCakeWithRumFrosting.JPG</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://26497HelenMcD.HDesserts/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://26497HelenMcD.HDesserts/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

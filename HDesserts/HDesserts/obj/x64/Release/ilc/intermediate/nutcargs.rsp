@@ -1,0 +1,9 @@
+/ignoreAccessChecks
+/metadataFile "C:\Users\Helen\Desktop\HDesserts\HDesserts\obj\x64\Release\ilc\intermediate\ILTransformed\HDesserts.metadata"
+/gvmAssemblyName "System.Private.CoreLib"
+/o
+/sharedGenerics
+/ilmergeinfo "C:\Users\Helen\Desktop\HDesserts\HDesserts\obj\x64\Release\ilc\intermediate\ILTransformed\HDesserts.csv"
+/sharedGenericsMode StandardHeuristics
+/in "C:\Users\Helen\Desktop\HDesserts\HDesserts\obj\x64\Release\ilc\intermediate\ILTransformed\HDesserts.ilexe"
+/out "C:\Users\Helen\Desktop\HDesserts\HDesserts\obj\x64\Release\ilc\intermediate\MDIL\HDesserts.mdilexe"
